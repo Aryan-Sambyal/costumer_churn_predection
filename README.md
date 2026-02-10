@@ -26,3 +26,15 @@ This project predicts whether a telecom customer is likely to churn using machin
 - Model performance metrics
 - Confusion matrix visualization
 - Feature importance plot
+  
+## Results
+
+**Model Performance:**
+
+| Model               | Accuracy |
+|--------------------|----------|
+| Logistic Regression | 80.5%   |
+| Random Forest       | 82.3%   |
+
+
+
